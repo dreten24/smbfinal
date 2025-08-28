@@ -1,0 +1,12 @@
+## File: README.md
+# Scan My Biz - Bank Statement Analyzer
+
+Professional bank statement analysis tool for merchant cash advance underwriting.
+
+## Features
+
+- Universal PDF, CSV, and TXT parsing for any bank
+- Accurate negative balance day calculation
+- MCA payment detection and risk assessment
+- Interactive charts and professional reporting
+- Export capabilities (CSV, JSON)
